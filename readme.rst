@@ -1,3 +1,9 @@
+WEB PROGRAMMING II
+
+Ardhi Rachmadi
+
+Tugas 1 : Menyelesaiakan pertemuan 1 DONE
+
 ###################
 What is CodeIgniter
 ###################
